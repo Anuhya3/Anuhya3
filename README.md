@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-- 🏢 2.5 years building enterprise-grade digital products at **Accenture**
+- 🏢 4 years building enterprise-grade digital products at **Accenture**
 - 💻 Specialised in **Angular**, **Node.js**, **Express**, and **MongoDB**
 - ☁️ Experienced with **AWS (EC2, S3)** and **Azure** cloud deployment
 - 🌍 Based in **London, UK** — open to full stack & frontend roles
 - 📫 anuhyap2000@gmail.com
-- 🌐 [Portfolio](https://anuhyaparlapalli.wixsite.com/portfolio)
+- 🌐 [Portfolio](https://anuhya3.github.io/)
 
 ---
 
